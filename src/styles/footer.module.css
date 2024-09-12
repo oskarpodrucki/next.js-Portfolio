@@ -1,0 +1,40 @@
+.header {
+	margin-top: auto;
+	padding: 20px;
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	border-top: 2px solid #444;
+}
+
+.logo {
+	margin-bottom: 40px;
+}
+
+.links {
+	margin: 10px 0;
+}
+
+.links a {
+	color: #09f;
+	text-decoration: none;
+	margin: 0 10px;
+	font-weight: bold;
+	transition: color 0.3s ease;
+}
+
+.links a:hover {
+	color: #0cf;
+}
+
+.privacy-policy {
+	margin: 10px 0;
+	font-size: 16px;
+	color: #bbb;
+}
+
+.copyright {
+	font-size: 14px;
+	color: #777;
+	margin: 5px 0;
+}

@@ -1,0 +1,88 @@
+1. Strona główna (Home)
+Nagłówek (Header)
+
+Logo lub imię i nazwisko
+Menu nawigacyjne (z linkami do innych sekcji: O mnie, Projekty, Usługi, Kontakt)
+CTA (Call to Action) – np. przycisk "Zobacz moje projekty" lub "Skontaktuj się ze mną"
+Sekcja powitalna (Hero Section)
+
+Krótkie powitanie: "Cześć, jestem Oskar, technik programista i web developer"
+Tło może przedstawiać Pana podczas pracy (np. zdjęcie biurka, laptopa itp.)
+Krótkie zdanie podsumowujące: „Tworzę strony internetowe, aplikacje i rozwijam swoje umiejętności programistyczne”
+CTA – „Sprawdź moje portfolio” lub „Zobacz moje projekty”
+Najważniejsze projekty (Featured Projects)
+
+Krótkie prezentacje najważniejszych projektów z linkami do pełnych opisów
+Sekcja z opiniami klientów (Testimonials) (opcjonalnie)
+
+Opinie klientów, z którymi Pan współpracował, albo nauczycieli i mentorów
+Stopka (Footer)
+
+Linki do social mediów (LinkedIn, GitHub, Facebook)
+Krótkie informacje kontaktowe
+2. O mnie (About)
+Krótki opis
+
+Kim Pan jest, czym się zajmuje (profil zawodowy)
+Krótka historia, jak zaczął Pan swoją karierę w IT
+Wzmianka o umiejętnościach technicznych: HTML, CSS, JavaScript, Python, bazy danych, Linux itd.
+Umiejętności (Skills)
+
+Lista technologii, w których Pan pracuje, z podziałem na kategorie (frontend, backend, bazy danych, narzędzia)
+Poziom zaawansowania przy każdej technologii (np. podstawowy, średnio zaawansowany, zaawansowany)
+Zainteresowania i cele
+
+Sekcja, w której można opisać swoje zainteresowania związane z IT, tworzeniem muzyki czy grafiką 2D/3D
+Wspomnieć o celach zawodowych i aspiracjach, takich jak rozwój freelancingu, budowanie stabilnej kariery itp.
+3. Projekty (Portfolio)
+Siatka projektów (Project Grid)
+
+Każdy projekt w formie kafelka ze zrzutem ekranu i krótkim opisem
+Po kliknięciu, użytkownik przechodzi do szczegółowego opisu projektu
+Szczegółowe opisy projektów (Project Details)
+
+Nazwa projektu
+Opis problemu, który projekt rozwiązywał
+Technologie użyte do realizacji projektu (HTML, CSS, JavaScript, Python, frameworki, narzędzia)
+Link do kodu na GitHubie lub demo live
+Galeria zrzutów ekranu lub film prezentujący działanie projektu
+Wyróżnione projekty (Featured Projects) (opcjonalnie)
+
+Najbardziej zaawansowane lub istotne projekty, które chce Pan wyróżnić, np. prace dla klientów, duże aplikacje
+4. Usługi (Services)
+Co oferuję (What I Offer)
+
+Krótki opis usług, które może Pan zaoferować jako freelancer:
+Tworzenie stron internetowych
+Tworzenie aplikacji webowych
+Optymalizacja SEO
+Administracja systemów Linux
+Grafika 2D/3D i edycja wideo
+Pakiety usług (Service Packages)
+
+Można podzielić ofertę na różne poziomy, np. podstawowy, zaawansowany, premium, z dokładnymi opisami co obejmuje każdy pakiet
+Proces współpracy
+
+Wyjaśnienie, jak wygląda współpraca: analiza wymagań, propozycje rozwiązań, implementacja, testy, wdrożenie
+5. Blog (opcjonalnie)
+Artykuły o technologii
+
+Regularnie aktualizowany blog, na którym można pisać o nowych technologiach, projektach, które Pan realizuje, oraz o wyzwaniach i problemach, które udało się rozwiązać
+To również świetny sposób na pokazanie swojej wiedzy i pasji
+Poradniki i tutoriale
+
+Można stworzyć sekcję z poradnikami, np. „Jak zacząć z Linuxem”, „Tworzenie responsywnych stron w CSS” itd.
+6. Kontakt (Contact)
+Formularz kontaktowy
+
+Imię, e-mail, wiadomość
+Prosty i przejrzysty formularz, który pozwoli odwiedzającym na szybki kontakt
+Możliwość dodania przycisku "Wyślij", który automatycznie wysyła wiadomość do Pana e-maila
+Dane kontaktowe
+
+E-mail
+Linki do profili na LinkedIn, GitHubie
+Adres (opcjonalnie, np. tylko miasto)
+Mapa Google (opcjonalnie)
+
+Jeśli planuje Pan pracować również lokalnie, można dodać mapę z zaznaczonym obszarem działalności
