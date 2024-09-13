@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Logo from "./Logo";
+import Logo from "../Logo";
 import styles from "@/styles/footer.module.css";
 
 export default function Header() {
