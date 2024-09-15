@@ -1,8 +1,10 @@
+import styles from "@/styles/textblock.module.css"
+
 export default function TextBlock({ heading, content }) {
 	return (
-		<div>
-			<h2>{heading}</h2>
-			<p>{content}</p>
+		<div className={styles.textBlock}>
+			<h2 className={styles.heading}>{heading}</h2>
+			<p className={styles.content}>{content}</p>
 		</div>
 	);
 }

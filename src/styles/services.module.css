@@ -1,0 +1,8 @@
+.servicesPage {
+	width: 100%;
+	height: 662px;
+	display: flex;
+    flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}

@@ -1,5 +1,5 @@
 import ImageWithText from "@/components/ImageWithText/page";
-import styles from "@/styles/page.module.css";
+import styles from "@/styles/home.module.css";
 
 export default function Home() {
   return (
