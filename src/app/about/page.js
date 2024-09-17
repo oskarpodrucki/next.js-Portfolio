@@ -12,9 +12,9 @@ const services = [
 ];
 
 const skills = [
-	"HTML, CSS, JavaScript",
-	"React, Next.js",
-	"Python",
+	"HTML, CSS, JavaScript, TypeScript",
+	"React, Next.js, Angular",
+	"C++, Python",
 	"Linux",
 	"Database Management (SQL, NoSQL)",
 ];

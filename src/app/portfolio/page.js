@@ -24,7 +24,7 @@ export default function Portfolio() {
 		<div className={styles.portfolioPage}>
 			<TextBlock
 				heading='My portfolio'
-				content='Check out my projects that I consider worthy of attention'
+				content='Check out my projects that I consider worthy of attention, you can also check my github for more projects'
 			/>
 			{projects.map((project, index) => (
 				<ImageWithText
